@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">movies_app</string>
+    <string name="original_language">Original language</string>
+    <string name="original_title">Original title</string>
+    <string name="release_date">Release date</string>
+    <string name="popularity">Popularity</string>
+    <string name="vote_avarage">Vote avarage</string>
+</resources>
